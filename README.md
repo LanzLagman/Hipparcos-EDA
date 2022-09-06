@@ -7,11 +7,11 @@ Using Python, we will replicate The Hertzsprung-Russell Diagram to show the rela
 
 We produced an initial black-and-white plot;
 
-![alt text](https://github.com/LanzLagman/Hipparcos-EDA/blob/611aea3202bfe99389d2ab62d8670c68f9d1ee7d/Data/Outputs/HRD%20BW.png)
+![](https://github.com/LanzLagman/Hipparcos-EDA/blob/611aea3202bfe99389d2ab62d8670c68f9d1ee7d/Data/Outputs/HRD%20BW.png) =250x250)
 
 two colored HRDs, using RdYBu_r
 
-![alt text](https://github.com/LanzLagman/Hipparcos-EDA/blob/5ca4080ee2a12519de302a3dda2ae7efd371e475/Data/Outputs/HRD%20BV.png)
+![](https://github.com/LanzLagman/Hipparcos-EDA/blob/5ca4080ee2a12519de302a3dda2ae7efd371e475/Data/Outputs/HRD%20BV.png =250x250)
 
 and with the B-V color index;
 
