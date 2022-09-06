@@ -10,7 +10,7 @@ We produced an initial black-and-white plot;
 
 <img src="https://github.com/LanzLagman/Hipparcos-EDA/blob/611aea3202bfe99389d2ab62d8670c68f9d1ee7d/Data/Outputs/HRD%20BW.png" width=313 height=352>
 
-two colored HRDs, using RdYBu_r
+two colored HRDs, using RdYBu_r colors
 
 <img src="https://github.com/LanzLagman/Hipparcos-EDA/blob/5ca4080ee2a12519de302a3dda2ae7efd371e475/Data/Outputs/HRD%20RdYBu_r.png" width=313 height=352>
 
