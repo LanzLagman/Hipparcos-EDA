@@ -1,7 +1,7 @@
 # Hipparcos-EDA
-Exploratory Data Analysis on the Hipparcos catalog
+### Exploratory Data Analysis on the Hipparcos catalog
 
-The Hipparcos Main Catalogue contains 118218 stars, which are available to be analyzed from Vizier. 
+The Hipparcos Main Catalogue contains 118218 stars, which are available to be analyzed from [Vizier](https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=I/239/hip_main&-out.max=50&-out.form=HTML%20Table&-out.add=_r&-out.add=_RAJ,_DEJ&-sort=_r&-oc.form=sexa). 
 
 Using Python, we will replicate The Hertzsprung-Russell Diagram to show the relationship between temperature and luminosity or the absolute magnitude and color index of stars from the catalog. 
 
