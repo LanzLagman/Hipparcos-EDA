@@ -12,7 +12,8 @@ We produced an initial black-and-white plot;
 
 two colored HRDs, using RdYBu_r
 
-![](https://github.com/LanzLagman/Hipparcos-EDA/blob/5ca4080ee2a12519de302a3dda2ae7efd371e475/Data/Outputs/HRD%20BV.png =250x250)
+<img src="https://github.com/LanzLagman/Hipparcos-EDA/blob/5ca4080ee2a12519de302a3dda2ae7efd371e475/Data/Outputs/HRD%20BV.png" width=313 height=352>
+
 
 and with the B-V color index;
 
