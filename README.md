@@ -5,7 +5,7 @@ The Hipparcos Main Catalogue contains 118218 stars, which are available to be an
 
 Using Python, we will replicate The Hertzsprung-Russell Diagram to show the relationship between temperature and luminosity or the absolute magnitude and color index of stars from the catalog. 
 
-We produced an initial black-and-white plot;
+As our output, we were produced an initial black-and-white plot;
 
 
 <img src="https://github.com/LanzLagman/Hipparcos-EDA/blob/611aea3202bfe99389d2ab62d8670c68f9d1ee7d/Data/Outputs/HRD%20BW.png" width=313 height=352>
